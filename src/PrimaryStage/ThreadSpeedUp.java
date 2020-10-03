@@ -8,7 +8,7 @@ package PrimaryStage;
  **/
 /**
  * 演示并发可以提升速度
- * 演示多线程可以提升速度
+ * 多线程可以提升速度
  * 计算 从 1 + N 的一个耗时
  */
 public class ThreadSpeedUp {
